@@ -8,7 +8,7 @@
     "preview": "vocs preview"
   },
   "dependencies": {
-    "@types/react": "latest",
+    "@types/react": "19.1.12",
     "react": "latest",
     "react-dom": "latest",
     "typescript": "latest",
