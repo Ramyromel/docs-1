@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/react": "latest",
     "react": "latest",
-    "react-dom": "latest",
+    "react-dom": "19.2.0",
     "typescript": "latest",
     "vocs": "1.0.0"
   }
